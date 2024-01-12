@@ -7,8 +7,6 @@ Venue Manager is a comprehensive solution designed to ensure optimal temperature
 - [Technologies Used](#technologies-used)
 - [Demo](#demo)
 - [Contributors](#contributors)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
 
 ## Technologies Used
 
