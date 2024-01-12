@@ -1,6 +1,19 @@
-This is the SEP4 project "Venue Manager". The purpose is to provide a way of ensuring proper temperature, humidity and CO2, 
-sound levels inside venues, therefore creating a safe and comfortable environment for venue visitors.
-It utilises many different technologies, such as:
+# Venue Manager 4th semester project
+
+Venue Manager is a comprehensive solution designed to ensure optimal temperature, humidity, CO2, and sound levels inside venues, thereby creating a safe and comfortable environment for visitors. This project is the result of a collaboration between nine student developers, each bringing their unique skills and perspectives to the table.
+
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Demo](#demo)
+- [Contributors](#contributors)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+
+## Technologies Used
+
+This project utilizes a wide range of technologies, including:
+
 - Spring Boot
 - MongoDB
 - Google Cloud
@@ -12,17 +25,20 @@ It utilises many different technologies, such as:
 - LoraWAN
 - FreeRTOS
 
-A demo of this project can be found at: 
-- https://www.youtube.com/watch?v=_fRMJdxdi-8
+## Demo
 
+A demo of this project can be found on YouTube: [Venue Manager Demo](https://www.youtube.com/watch?v=_fRMJdxdi-8)
 
-This project was developed by a 9 people group. I mainly worked on the front end but still have a good overview of all project
-- Daniel Lopes 315274
-- Selina Ceban 315235
-- Lóránt Bekó 315189
-- Adriana Leišytė 333678
-- Rojus Paukštė 315221
-- Matas Kairys 315188
-- Nerijus Savickas 315173
-- Javier Abreu Barreto 315237
-- Mikkel Bjørn Hansen 315167
+## Contributors
+
+This project was developed by a team of nine:
+
+- Daniel Lopes (315274)
+- Selina Ceban (315235)
+- Lóránt Bekó (315189)
+- Adriana Leišytė (333678)
+- Rojus Paukštė (315221)
+- Matas Kairys (315188)
+- Nerijus Savickas (315173)
+- Javier Abreu Barreto (315237)
+- Mikkel Bjørn Hansen (315167)
